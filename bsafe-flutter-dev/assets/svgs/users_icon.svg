@@ -1,0 +1,12 @@
+<svg id="_2024644_login_user_avatar_person_users_icon" data-name="2024644_login_user_avatar_person_users_icon" xmlns="http://www.w3.org/2000/svg" width="39.41" height="39.41" viewBox="0 0 39.41 39.41">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#343795;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Path_435" data-name="Path 435" d="M0 19.7A19.705 19.705 0 1 0 19.705 0 19.7 19.7 0 0 0 0 19.7z" style="fill:#fff"/>
+    <g id="User" transform="translate(10.139 8.765)">
+        <path id="Path_436" data-name="Path 436" class="cls-2" d="M35.7 39.1v3.8a.586.586 0 0 1-.579.586H17.679a.586.586 0 0 1-.579-.586v-3.8c0-3.07 4.164-5.56 9.3-5.56s9.3 2.49 9.3 5.56z" transform="translate(-17.1 -21.609)"/>
+        <ellipse id="Ellipse_34" data-name="Ellipse 34" class="cls-2" cx="4.131" cy="3.977" rx="4.131" ry="3.977" transform="translate(5.168)"/>
+    </g>
+</svg>
